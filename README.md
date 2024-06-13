@@ -1,2 +1,2 @@
 # MyPojects
-For Practice only for new joiners not for the current Employes
+These Practice are only for new joiners not for the current Employes
